@@ -12,7 +12,7 @@ including cells with cytotoxic effector programs and others with more memory-ass
 In order to look at these specialized T cells myself, I decided to explore the publicly available dataset.
 
 ## The dataset
-I used the 10x Genomics single-cell RNA-seq dataset from [Patil et al. (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5931334/#S2)
+I used the 10x Genomics single-cell RNA-seq dataset from the reference paper.
 
 - **Dataset:** [GSE106543 - NCBI GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE106543)
 - **Cell population:** Human CD4+ TEMRA cells
