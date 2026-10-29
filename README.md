@@ -49,15 +49,21 @@ A small population expressed proliferation-associated genes such as **MKI67**, *
 
 ### Integrated UMAP
 
-![Harmony cluster UMAP](results/figures/integrated_umap.png)
+<p align="center">
+  <img src="results/figures/integrated_umap.png" width="75%" alt="Seurat cluster UMAP">
+</p>
 
 ### Broad transcriptional states
 
-![Annotated UMAP](results/figures/cluster_annotated_umap.png)
+<p align="center">
+  <img src="results/figures/cluster_annotated_umap.png" width="75%" alt="Broad-state UMAP">
+</p>
 
 ### Cell-state composition
 
-![Cell-state composition](results/figures/state_composition.png)
+<p align="center">
+  <img src="results/figures/state_composition.png" width="75%" alt="Cell-state composition">
+</p>
 
 ## So, what's the takeaway?
 **CD4+ memory T cells aren't limited to coordinating immune responses. Some can exhibit strong cytotoxic-associated transcriptional programs.**
