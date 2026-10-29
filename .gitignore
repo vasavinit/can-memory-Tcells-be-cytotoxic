@@ -1,0 +1,15 @@
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.Rtmp
